@@ -5,8 +5,8 @@
 ;
 [subrepo]
 	remote = https://github.com/chris-ferone/subA.git
-	branch = master
-	commit = 5e8c419549434c7c18a89b6e1b3417c64d731b0b
-	parent = 861792c4a0c96af7d765211efe5c78eb1dc1b908
+	branch = branchOnSubA
+	commit = eb22e8d1df4983ef39da1f1cf7ff554e31b67191
+	parent = 9e4e54cf0dd2c97db7b5a0843dc1c7450511bd7c
 	method = merge
 	cmdver = 0.4.1
